@@ -1,4 +1,4 @@
-## Índice 👋
+# Índice 👋
 
 1. Gestión de proyecto / equipo
       1. Modelos predictivos
@@ -23,8 +23,8 @@
          1. Bases del diseño: [UI](https://github.com/Factoria-F5-dev/UI) 
       1. Maquetación
          1. HTML [Validador HTML](https://validator.w3.org/)
-         2. CSS (Preprocesadores, librerías, unidades medidas, selectores, las medias, etc.) [CSS Layout](https://github.com/Factoria-F5-dev/CSSlayout)
-         4. Accesibilidad
+         1. CSS (Preprocesadores, librerías, unidades medidas, selectores, las medias, etc.) [CSS Layout](https://github.com/Factoria-F5-dev/CSSlayout)
+         1. Accesibilidad
       1. Frontend
          1. JS (DOM, BOM, variables, funciones, arrays, operadores, objetos, asincronía, eventos, control de flujo, fetch/axios, JSON, expresiones regulares, objetos, webcomponents, etc.) [JS-Katas](https://github.com/Factoria-F5-dev/JS-Katas-Jest)
          1. TypeScript
@@ -46,14 +46,14 @@
                 1. Next
              1. .Net
              1. PHP
-               1. Symfony
-               1. Laravel
-        1. BBDD
-          1. No relacional
-          1. Relacionales
-            1. Mysql
-            1. PostgreSQL  
-          1. Vectoriales
+                1. Symfony
+                1. Laravel
+          1. BBDD
+                1. No relacional
+                1. Relacionales
+                        1. Mysql
+                        1. PostgreSQL  
+                1. Vectoriales
       1. IA
          1. Data engineer (Limpiar y procesar datos)
          1. Data Analyts (Entender los datos, detectar patrones, visualizar)
