@@ -15,9 +15,7 @@
    - **Paradigma funcional**
    - **Programación Orientada a Objetos**
    - **TDD**
-     - Cypress
-     - Jest
-     - Testing Library
+     - JS (Cypress, Jest, Testing Library)
    - **Arquitectura de Software**
 
 ## 3. 🖼️ Áreas
@@ -90,15 +88,15 @@
 
 ## 🎓 Master
 
-- **Calendario de clases compartidas**
-- [Clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
+- *Calendario de clases compartidas*
+- [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
 
 ---
 
 ## 🧪 Pruebas Técnicas
 
 - [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews)
-- [En Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
+- [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
 
 ---
 
