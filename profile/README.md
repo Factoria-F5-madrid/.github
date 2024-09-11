@@ -37,8 +37,8 @@
      - Angular
      - Vue
    - **Inmersivas**
-     - A-frame
-     - Babylon
+     - Blender
+     - JS (A-frame, Babylon)
      - Unity
 
 ### 3.4. 🛠️ Backend
