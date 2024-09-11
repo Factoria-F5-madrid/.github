@@ -61,10 +61,8 @@
      - MLOps
 
 ### 3.6. ☁️ Cloud
-   - **Dominios / DNS**
-   - **Hosting** (Cronjobs, SSH, etc.)
-   - **Docker**
-   - **Kubernetes**
+   - **Hosting** (Dominios, DNS, Cronjobs, SSH, etc.)
+   - **Docker y Kubernetes**
    - **AWS / Azure / Google Cloud**
 
 ### 3.7. 🔐 Ciberseguridad
