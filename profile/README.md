@@ -70,7 +70,7 @@
    - **AWS / Azure / Google Cloud**
 
 ### 3.7. 🔐 Ciberseguridad
-   - Token, CORS, Code, Cloud, Sistemas
+   - De Code, Cloud, Sistemas: Token, CORS, Criptografía, etc.
 
 ### 3.8. ✅ QA (Control de Calidad)
 
