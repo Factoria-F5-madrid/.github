@@ -1,13 +1,13 @@
 # 📋 Índice 👋
 
 ## 1. 📂 Gestión de proyecto / equipo
-   - **Modelos predictivos**
-   - **Mindset Agile**
+   - **Métodos predictivos (GANTT, PERT)**
+   - **Mindset Agile (SCRUM)**
 
 ## 2. 💻 Bases de la programación
    - **IDE**
    - **Terminal**
-   - **Protocolo HTTP, Postman**
+   - **Protocolo HTTP, APIs,Postman**
    - **Git / Github** ([Git-Flow](https://github.com/Factoria-F5-dev/git-flow))
    - **Clean Code**
    - **Lógica de programación y algoritmos**
@@ -15,7 +15,10 @@
    - **Paradigma funcional**
    - **Programación Orientada a Objetos**
    - **TDD**
-     - JS (Cypress, Jest, Testing Library)
+     - JS (Cypress, Jest, Testing Library, Super test)
+     - Python (Pytest)
+     - PHP (PHPUnit, Codeception)
+     - etc.
    - **Arquitectura de Software**
 
 ## 3. 🖼️ Áreas
@@ -31,7 +34,7 @@
    - **JavaScript (JS)** (DOM, BOM, variables, funciones, arrays, operadores, etc.) [JS-Katas](https://github.com/Factoria-F5-dev/JS-Katas-Jest)
    - **TypeScript**
    - **Frameworks**
-     - React (Componentes, props, states, hooks, etc.)
+     - React (Componentes, props, states, hooks, etc.) / Next
      - Angular
      - Vue
    - **Inmersivas**
@@ -43,15 +46,16 @@
    - **Lenguajes y frameworks**
      - Java: Spring Boot
      - Python: Django
-     - Node: Express, Next
-     - .NET
+     - Node: Express, Nest
      - PHP: Symfony, Laravel
+     - .NET
    - **Bases de datos**
      - No relacionales
      - Relacionales: MySQL, PostgreSQL
      - Vectoriales
 
 ### 3.5. 🤖 IA
+   - **IA Generativa**
    - **Data engineer** (Limpieza y procesamiento de datos)
    - **Data Analyst** (Entender datos, detectar patrones, visualizar)
    - **AI Developer** (Aplicar y entender modelos)
@@ -84,9 +88,9 @@
 
 ---
 
-## 🎓 Master
+## 🎓 Masterclases
 
-- *Calendario de clases compartidas*
+- [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
 
 ---
