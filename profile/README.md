@@ -1,10 +1,27 @@
 # 📋 Índice 👋
 
-## 1. 📂 Gestión de proyecto / equipo
+- [🚀 Roadmaps](#🚀-roadmaps)
+- [📖 Temas](#📖-temas)
+- [🛠️ Herramientas Adicionales](#🛠️-herramientas-adicionales)
+- [🎓 Masterclases](#🎓-masterclases)
+- [🧪 Pruebas Técnicas](#🧪-pruebas-técnicas)
+- [📚 Más Recursos](#📚-más-recursos)
+
+___
+
+## 🚀 Roadmaps
+
+- ([IA](https://github.com/Factoria-F5-dev/roadmap-ia))
+
+---
+
+## 📖 Temas
+
+### 1. 📂 Gestión de proyecto / equipo
    - **Métodos predictivos (GANTT, PERT)**
    - **Mindset Agile (SCRUM)**
 
-## 2. 💻 Bases de la programación
+### 2. 💻 Bases de la programación
    - **IDE**
    - **Terminal**
    - **Protocolo HTTP, APIs,Postman**
@@ -21,16 +38,16 @@
      - etc.
    - **Arquitectura de Software**
 
-## 3. 🖼️ Áreas
-### 3.1. 🎨 UI / UX / Figma
+### 3. 🖼️ Áreas
+#### 3.1. 🎨 UI / UX / Figma
    - **Bases del diseño:** [UI](https://github.com/Factoria-F5-dev/UI)
 
-### 3.2. 🖥️ Maquetación
+#### 3.2. 🖥️ Maquetación
    - **HTML** ([Validador HTML](https://validator.w3.org/))
    - **CSS** (Preprocesadores, librerías, unidades de medida, selectores, etc.) [CSS Layout](https://github.com/Factoria-F5-dev/CSSlayout)
    - **Accesibilidad**
 
-### 3.3. 🌐 Frontend
+#### 3.3. 🌐 Frontend
    - **JavaScript (JS)** (DOM, BOM, variables, funciones, arrays, operadores, etc.) [JS-Katas](https://github.com/Factoria-F5-dev/JS-Katas-Jest)
    - **TypeScript**
    - **Frameworks**
@@ -42,7 +59,7 @@
      - JS (A-frame, Babylon)
      - Unity
 
-### 3.4. 🛠️ Backend
+#### 3.4. 🛠️ Backend
    - **Lenguajes y frameworks**
      - Java: Spring Boot
      - Python: Django
@@ -54,7 +71,7 @@
      - Relacionales: MySQL, PostgreSQL
      - Vectoriales
 
-### 3.5. 🤖 IA
+#### 3.5. 🤖 IA
    - **IA Generativa**
    - **Data engineer** (Limpieza y procesamiento de datos)
    - **Data Analyst** (Entender datos, detectar patrones, visualizar)
@@ -64,19 +81,19 @@
      - Visual computing
      - MLOps
 
-### 3.6. ☁️ Cloud
+#### 3.6. ☁️ Cloud
    - **Hosting** (Dominios, DNS, Cronjobs, SSH, etc.)
    - **Docker y Kubernetes**
    - **AWS / Azure / Google Cloud**
 
-### 3.7. 🔐 Ciberseguridad
+#### 3.7. 🔐 Ciberseguridad
    - De Code, Cloud, Sistemas: Token, CORS, Criptografía, etc.
 
-### 3.8. ✅ QA (Control de Calidad)
+#### 3.8. ✅ QA (Control de Calidad)
 
-### 3.9. 💼 Comerciales de servicios tecnológicos, client solution
+#### 3.9. 💼 Comerciales de servicios tecnológicos, client solution
 
-### 3.10. 📈 Marketing Digital
+#### 3.10. 📈 Marketing Digital
 
 ---
 
