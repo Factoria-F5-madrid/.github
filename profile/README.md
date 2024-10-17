@@ -1,17 +1,19 @@
 # 📋 Índice 👋
 
-- [🚀 Roadmaps](#🚀-roadmaps)
-- [📖 Temas](#📖-temas)
-- [🛠️ Herramientas Adicionales](#🛠️-herramientas-adicionales)
-- [🎓 Masterclases](#🎓-masterclases)
-- [🧪 Pruebas Técnicas](#🧪-pruebas-técnicas)
-- [📚 Más Recursos](#📚-más-recursos)
+- [🚀 Roadmaps](#roadmaps)
+- [📖 Temas](#temas)
+- [🛠️ Herramientas Adicionales](#herramientas-adicionales)
+- [🎓 Masterclases](#masterclases)
+- [🧪 Pruebas Técnicas](#pruebas-técnicas)
+- [📚 Más Recursos](#más-recursos)
+
+
 
 ___
 
 ## 🚀 Roadmaps
 
-- ([IA](https://github.com/Factoria-F5-dev/roadmap-ia))
+- [IA](https://github.com/Factoria-F5-dev/roadmap-ia)
 
 ---
 
