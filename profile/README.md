@@ -11,13 +11,13 @@
 
 ___
 
-## 🚀 Roadmaps
+## Roadmaps
 
 - [IA](https://github.com/Factoria-F5-dev/roadmap-ia)
 
 ---
 
-## 📖 Temas
+## Temas
 
 ### 1. 📂 Gestión de proyecto / equipo
    - **Métodos predictivos (GANTT, PERT)**
@@ -99,7 +99,7 @@ ___
 
 ---
 
-## 🛠️ Herramientas Adicionales
+## Herramientas Adicionales
 
 - **React Native**
 - **Electron**
@@ -107,20 +107,20 @@ ___
 
 ---
 
-## 🎓 Masterclases
+## Masterclases
 
 - [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
 
 ---
 
-## 🧪 Pruebas Técnicas
+## Pruebas Técnicas
 
 - [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews)
 - [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
 
 ---
 
-## 📚 Más Recursos
+## Más Recursos
 
 - [Recursos en WebExtendida](https://webextendida.es/resources/)
