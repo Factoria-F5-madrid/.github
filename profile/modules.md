@@ -1,6 +1,6 @@
 # Modules
 
-For the repositories, tag with the main category and add the subcategory. Example: project-management and agile-mindset
+For the repositories, tag with the main category and add the subcategories. Example: project-management and agile-mindset
 
 ## 📂 Project Management
    - **Predictive Methods**
@@ -32,12 +32,15 @@ For the repositories, tag with the main category and add the subcategory. Exampl
    - **JavaScript**
    - **TypeScript**
    - **Frameworks**
-     - React / Next
+     - React
+     - Next
      - Angular
      - Vue
    - **Immersive Technologies**
      - Blender
-     - JS (Three, A-frame, Babylon)
+     - Three.js
+     - A-frame.js
+     - Babylon.js
      - Unity
 
 ## 🛠️ Backend
