@@ -11,14 +11,14 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 # Contenido
 
-- 📅 **Roadmaps de las formaciones**: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Aroadmap)
-- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Atheme)
-- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Aproject-coder)
-- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Aproject-internal)
+- 📅 **Roadmaps de las formaciones**: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap)
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme)
+- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:proyect-coder)
+- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:proyect-interno)
 
 # Organización
 
-Estos repos están etiquetados (a través de custom properties) y siguen unas convenciones para organizar el trabajo en equipo:
+Estos repos están etiquetados y siguen unas convenciones para organizar el trabajo en equipo:
 
 - 🏷️ **type**: Describe el tipo de repo (ejemplos: roadmap, theme, project-coder, project-internal, etc.).
 - 📦 **modules**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
