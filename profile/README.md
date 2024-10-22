@@ -20,11 +20,16 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 Estos repos están etiquetados y siguen unas convenciones para organizar el trabajo en equipo:
 
-- 🏷️ **type**: Describe el tipo de repo (ejemplos: roadmap, theme, project-coder, project-internal, etc.).
-- 📦 **modules**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
-- ⏳ **duration**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje (ejemplo: 20-40 days).
-- 🎯 **difficulty**: Propiedad opcional que evalúa la dificultad de comprensión de la unidad (Valores: easy, intermediate, hard, very-hard).
-- ✅ **state**: Indica el estado del repo (completed, in progress).
+- 🏷️ **Etiquetas type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.).
+
+- 📦 **Etiquetas modules**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
+
+- ⏳ **Etiqueta duration**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje ([day](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:week), [biweekly](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:biweekly), [month](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:month), [2months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:2months), [3months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:3months), [9months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:9months)).
+
+- 🎯 **Etiqueta difficulty**: Etiqueta que evalúa la dificultad de comprensión de la unidad ([easy](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:intermediate), [hard](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:hard), [very-hard](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:very-hard)).
+
+- ✅ **Etiqueta state**: Indica el estado del repo ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [in-progress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:in-progress)).
+
 
 # Más recursos
 
