@@ -11,20 +11,20 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 # Contenido
 
-- 📅 **Roadmaps de las formaciones**: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Tipo%3Aroadmap)
-- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Tipo%3Atopic)
-- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Tipo%3Aproject-coder)
-- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Tipo%3Aproject-internal)
+- 📅 **Roadmaps de las formaciones**: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Type%3Aroadmap)
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Type%3Atopic)
+- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Type%3Aproject-coder)
+- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Type%3Aproject-internal)
 
 # Organización
 
 Estos repos están etiquetados (a través de custom properties) y siguen unas convenciones para organizar el trabajo en equipo:
 
-- 🏷️ **Tipo**: Describe el tipo de repo (ejemplo: Roadmap, tema, proyecto coder, proyecto interno, etc.).
-- 📦 **Módulos**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
-- ⏳ **Duración**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje (ejemplos: 0-2, 20-40 días).
-- 🎯 **Dificultad**: Propiedad opcional que evalúa la dificultad de comprensión de la unidad (valores: fácil, medio, difícil, muy difícil).
-- ✅ **Estado**: Indica el estado del repo (Terminado = true, en proceso = false).
+- 🏷️ **type**: Describe el tipo de repo (ejemplos: roadmap, theme, project-coder, project-internal, etc.).
+- 📦 **modules**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
+- ⏳ **duration**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje (ejemplo: 20-40 days).
+- 🎯 **difficulty**: Propiedad opcional que evalúa la dificultad de comprensión de la unidad (Valores: easy, intermediate, hard, very-hard).
+- ✅ **state**: Indica el estado del repo (completed, in progress).
 
 # Más recursos
 
