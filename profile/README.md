@@ -12,9 +12,9 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 # Contenido
 
 - 📅 **Roadmaps de las formaciones**: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Aroadmap)
-- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Atopic)
-- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Type%3Aproject-coder)
-- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.Type%3Aproject-internal)
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Atheme)
+- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Aproject-coder)
+- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.type%3Aproject-internal)
 
 # Organización
 
