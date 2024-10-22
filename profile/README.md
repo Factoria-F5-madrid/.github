@@ -1,5 +1,5 @@
 
-<img src="./profile/intro.png" alt="Equipo colaborando" style="width:100%;"/>
+<img src="./intro.png" alt="Equipo colaborando" style="width:100%;"/>
 
 # Intro
 
