@@ -1,5 +1,5 @@
 
-<img src="/intro.png" alt="Equipo colaborando" style="width:100%;"/>
+<img src="./profile/intro.png" alt="Equipo colaborando" style="width:100%;"/>
 
 # Intro
 
@@ -12,7 +12,7 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 # Contenido
 
 - 📅 **Roadmaps de las formaciones**: [Accede al listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%roadmap)
-- 📚 **Temas**: Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales. Ejemplo de Docker. [Accede al listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%tema)
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Accede al listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%tema)
 - 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%proyecto-coder)
 - 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%proyecto-interno)
 
@@ -33,4 +33,4 @@ Estos repos están etiquetados (a través de custom properties) y siguen unas co
 - 📂 Otros recursos adicionales: [Recursos en WebExtendida](https://webextendida.es/resources/)
 
 > [!TIP]
-> La mejor manera de ganar tiempo es organizarse.:
+> La mejor manera de ganar tiempo es organizarse
