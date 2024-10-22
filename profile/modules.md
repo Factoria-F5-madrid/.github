@@ -1,75 +1,88 @@
-# Módulos
+# Modules
 
-## 📂 Gestión de proyecto / equipo
-   - **Métodos predictivos (GANTT, PERT)**
-   - **Mindset Agile (SCRUM)**
+For the repositories, tag with the main category and add the subcategory. Example: project-management and agile-mindset
 
-## 💻 Bases de la programación
+## 📂 Project Management
+   - **Predictive Methods**
+   - **Agile Mindset**
+
+## 💻 Programming Foundations
    - **IDE**
    - **Terminal**
-   - **Protocolo HTTP, APIs, Postman**
-   - **Git / Github** ([Git-Flow](https://github.com/Factoria-F5-dev/git-flow))
+   - **HTTP Protocol, APIs, Postman**
+   - **Git / Github**
    - **Clean Code**
-   - **Lógica de programación y algoritmos**
-   - **Tipos de datos**
-   - **Paradigma funcional**
-   - **Programación Orientada a Objetos**
+   - **Logic and Algorithms**
+   - **Data Types**
+   - **Functional Programming**
+   - **Object-Oriented Programming**
    - **TDD**
-   - **Arquitectura de Software**
+   - **Software Architecture**
 
-## 🎨 Diseño
-   - UI / UX
-   - Figma
+## 🎨 Design
+   - **UI / UX**
+   - **Figma**
 
-## 🖥️ Maquetación
-   - **HTML** 
-   - **CSS** (Preprocesadores, librerías, unidades de medida, selectores, etc.) 
-   - **Accesibilidad**
+## 🖥️ Layout
+   - **HTML**
+   - **CSS**
+   - **Accessibility**
 
 ## 🌐 Frontend
-   - **JavaScript (JS)** (DOM, BOM, variables, funciones, arrays, operadores, etc.)
+   - **JavaScript**
    - **TypeScript**
    - **Frameworks**
-     - React (Componentes, props, states, hooks, etc.) / Next
+     - React / Next
      - Angular
      - Vue
-   - **Inmersivas**
+   - **Immersive Technologies**
      - Blender
      - JS (Three, A-frame, Babylon)
      - Unity
 
 ## 🛠️ Backend
-   - **Lenguajes y frameworks**
-     - Java: Spring Boot
-     - Python: Django
-     - Node: Express, Nest
-     - PHP: Symfony, Laravel
+   - **Languages**
+     - Java
+     - Python
+     - Node
+     - PHP
      - .NET
-   - **Bases de datos**
-     - No relacionales
-     - Relacionales: MySQL, PostgreSQL
-     - Vectoriales
+   - **Frameworks**
+     - Spring Boot
+     - Django
+     - Express
+     - Nest
+     - Laravel
+     - Symfony
+   - **Databases**
+     - Non-relational
+     - Relational
+     - Vector-based
 
-## 🤖 IA
-   - **IA Generativa**
-   - **Data engineer** (Limpieza y procesamiento de datos)
-   - **Data Analyst** (Entender datos, detectar patrones, visualizar)
-   - **AI Developer** (Aplicar y entender modelos)
+## 🤖 AI
+   - **Generative AI**
+   - **Data Engineer** (Data cleaning and processing)
+   - **Data Analyst** (Understanding data, detecting patterns, visualization)
+   - **AI Developer** (Applying and understanding models)
      - NLP
      - LLM
      - Visual computing
      - MLOps
 
 ## ☁️ Cloud
-   - **Hosting** (Dominios, DNS, Cronjobs, SSH, etc.)
-   - **[Docker](https://github.com/Factoria-F5-dev/docker) y Kubernetes**
-   - **AWS / Azure / Google Cloud**
+   - **Hosting** (Domains, DNS, Cronjobs, SSH, etc.)
+   - **Docker**
+   - **Kubernetes**
+   - **AWS**
+   - **Azure**
 
-## 🔐 Ciberseguridad
-   - De Code, Cloud, Sistemas
+## 🔐 Cybersecurity
+   - Code
+   - Cloud
+   - Systems
 
-## ✅ QA (Control de Calidad)
+## ✅ QA (Quality Assurance)
 
-## 💼 Comerciales de servicios tecnológicos, client solution
+## 💼 Tech Service Sales, Client Solution
 
-### 📈 Marketing Digital
+### 📈 Digital Marketing
