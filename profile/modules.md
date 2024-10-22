@@ -23,7 +23,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
    - UI
    - Figma
 
-## 🖥️ [Layout](#layout)
+## 🖥️ Layout
    - HTML
    - CSS
    - Accessibility
