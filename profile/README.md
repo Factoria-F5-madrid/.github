@@ -1,133 +1,36 @@
-# 📋 Índice 👋
 
-- [🚀 Intro](#intro)
-- [🚀 Roadmaps](#roadmaps)
-- [📖 Temas](#temas)
-- [🛠️ Herramientas Adicionales](#herramientas-adicionales)
-- [🎓 Masterclases](#masterclases)
-- [🧪 Pruebas Técnicas](#pruebas-técnicas)
-- [📚 Más Recursos](#más-recursos)
+<img src="/intro.png" alt="Equipo colaborando" style="width:100%;"/>
 
+# Intro
 
+En el mundo del desarrollo, la colaboración, el aprendizaje compartido y el trabajo en red son fundamentales para el crecimiento. Con el objetivo de mejorar y fomentar una cultura de equipo, hemos decidido estructurarnos en GitHub, la herramienta estándar en la industria para la colaboración en desarrollo de software.
 
-___
+Nuestros repositorios serán el espacio donde podremos versionar y gestionar nuestros roadmaps, el contenido para clases, los proyectos para coders y proyectos internos que estamos desarrollando.
 
-## Intro
+Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
 
-- [IA](https://github.com/Factoria-F5-dev/roadmap-ia)
+# Contenido
 
----
+- 📅 **Roadmaps de las formaciones**: [Accede al listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%roadmap)
+- 📚 **Temas**: Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales. Ejemplo de Docker. [Accede al listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%tema)
+- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y solución privada. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%proyecto-coder)
+- 🤝 **Proyectos colaborativos**: Podrás participar y aprender junto a otras. Ejemplo de app para clasificar. [Listado de proyectos en construcción](https://github.com/orgs/Factoria-F5-dev/repositories?q=props.tipo%proyecto-interno)
 
-## Roadmaps
+# Organización
 
-- [IA](https://github.com/Factoria-F5-dev/roadmap-ia)
+Estos repos están etiquetados (a través de custom properties) y siguen unas convenciones para organizar el trabajo en equipo:
 
----
+- 🏷️ **Tipo**: Describe el tipo de repo (ejemplo: Roadmap, tema, proyecto coder, proyecto interno, etc.).
+- 📦 **Módulos**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](#)
+- ⏳ **Duración**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje (ejemplos: 0-2, 20-40 días).
+- 🎯 **Dificultad**: Propiedad opcional que evalúa la dificultad de comprensión de la unidad (valores: fácil, medio, difícil, muy difícil).
+- ✅ **Estado**: Indica el estado del repo (Terminado = true, en proceso = false).
 
-## Temas
+# Más recursos
 
-### 1. 📂 Gestión de proyecto / equipo
-   - **Métodos predictivos (GANTT, PERT)**
-   - **Mindset Agile (SCRUM)**
+- 🧪 Pruebas técnicas: [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews), [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
+- 🎓 Masterclases: [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) | [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
+- 📂 Otros recursos adicionales: [Recursos en WebExtendida](https://webextendida.es/resources/)
 
-### 2. 💻 Bases de la programación
-   - **IDE**
-   - **Terminal**
-   - **Protocolo HTTP, APIs,Postman**
-   - **Git / Github** ([Git-Flow](https://github.com/Factoria-F5-dev/git-flow))
-   - **Clean Code**
-   - **Lógica de programación y algoritmos**
-   - **Tipos de datos**
-   - **Paradigma funcional**
-   - **Programación Orientada a Objetos**
-   - **TDD**
-     - JS (Cypress, Jest, Testing Library, Super test)
-     - Python (Pytest)
-     - PHP (PHPUnit, Codeception)
-     - etc.
-   - **Arquitectura de Software**
-
-### 3. 🖼️ Áreas
-#### 3.1. 🎨 UI / UX / Figma
-   - **Bases del diseño:** [UI](https://github.com/Factoria-F5-dev/UI)
-
-#### 3.2. 🖥️ Maquetación
-   - **HTML** ([Validador HTML](https://validator.w3.org/))
-   - **CSS** (Preprocesadores, librerías, unidades de medida, selectores, etc.) [CSS Layout](https://github.com/Factoria-F5-dev/CSSlayout)
-   - **Accesibilidad**
-
-#### 3.3. 🌐 Frontend
-   - **JavaScript (JS)** (DOM, BOM, variables, funciones, arrays, operadores, etc.) [JS-Katas](https://github.com/Factoria-F5-dev/JS-Katas-Jest)
-   - **TypeScript**
-   - **Frameworks**
-     - React (Componentes, props, states, hooks, etc.) / Next
-     - Angular
-     - Vue
-   - **Inmersivas**
-     - Blender
-     - JS (Three, A-frame, Babylon)
-     - Unity
-
-#### 3.4. 🛠️ Backend
-   - **Lenguajes y frameworks**
-     - Java: Spring Boot
-     - Python: Django
-     - Node: Express, Nest
-     - PHP: Symfony, Laravel
-     - .NET
-   - **Bases de datos**
-     - No relacionales
-     - Relacionales: MySQL, PostgreSQL
-     - Vectoriales
-
-#### 3.5. 🤖 IA
-   - **IA Generativa**
-   - **Data engineer** (Limpieza y procesamiento de datos)
-   - **Data Analyst** (Entender datos, detectar patrones, visualizar)
-   - **AI Developer** (Aplicar y entender modelos)
-     - NLP
-     - LLM
-     - Visual computing
-     - MLOps
-
-#### 3.6. ☁️ Cloud
-   - **Hosting** (Dominios, DNS, Cronjobs, SSH, etc.)
-   - **[Docker](https://github.com/Factoria-F5-dev/docker) y Kubernetes**
-   - **AWS / Azure / Google Cloud**
-
-#### 3.7. 🔐 Ciberseguridad
-   - De Code, Cloud, Sistemas: Token, CORS, Criptografía, etc.
-
-#### 3.8. ✅ QA (Control de Calidad)
-
-#### 3.9. 💼 Comerciales de servicios tecnológicos, client solution
-
-#### 3.10. 📈 Marketing Digital
-
----
-
-## Herramientas Adicionales
-
-- **React Native**
-- **Electron**
-- **Stripe TPV**
-
----
-
-## Masterclases
-
-- [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-- [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
-
----
-
-## Pruebas Técnicas
-
-- [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews)
-- [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
-
----
-
-## Más Recursos
-
-- [Recursos en WebExtendida](https://webextendida.es/resources/)
+> [!TIP]
+> La mejor manera de ganar tiempo es organizarse.:
