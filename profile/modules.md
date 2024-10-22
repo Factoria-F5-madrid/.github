@@ -6,11 +6,11 @@ For the repositories, tag with the main category and add the subcategories. Exam
    - Predictive Methods
    - Agile Mindset
 
-## 💻 [Programming Foundations](#programming-foundations)
+## 💻 [Programming Foundations](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:programming-foundations)
    - IDE
    - Terminal
    - HTTP Protocol
-   - [Git](#git)
+   - [Git](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:git)
    - Clean Code
    - Logic and Algorithms
    - Data Types
@@ -25,7 +25,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
 
 ## 🖥️ [Layout](#layout)
    - HTML
-   - [CSS](#css)
+   - CSS
    - Accessibility
 
 ## 🌐 Frontend
@@ -62,7 +62,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
      - Relational
      - Vector-based
 
-## 🤖 AI
+## 🤖 [AI](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:ai)
    - Generative AI
    - Data Engineer (Data cleaning and processing)
    - Data Analyst (Understanding data, detecting patterns, visualization)
@@ -72,9 +72,9 @@ For the repositories, tag with the main category and add the subcategories. Exam
      - Visual computing
      - MLOps
 
-## ☁️ [Cloud](#cloud)
+## ☁️ [Cloud](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:cloud)
    - Hosting (Domains, DNS, Cronjobs, SSH, etc.)
-   - [Docker](#docker)
+   - [Docker](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:docker)
    - Kubernetes
    - AWS
    - Azure
