@@ -1,5 +1,6 @@
 # 📋 Índice 👋
 
+- [🚀 Intro](#intro)
 - [🚀 Roadmaps](#roadmaps)
 - [📖 Temas](#temas)
 - [🛠️ Herramientas Adicionales](#herramientas-adicionales)
@@ -10,6 +11,12 @@
 
 
 ___
+
+## Intro
+
+- [IA](https://github.com/Factoria-F5-dev/roadmap-ia)
+
+---
 
 ## Roadmaps
 
