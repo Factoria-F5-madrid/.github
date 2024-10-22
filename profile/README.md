@@ -13,8 +13,8 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 - 📅 **Roadmaps de las formaciones**: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap)
 - 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme)
-- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:proyect-coder)
-- 🤝 **Proyectos internos**: Podrás participar y aprender junto a otras. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:proyect-interno)
+- 🛠️ **Proyectos para coders**: Contienen criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder)
+- 🤝 **Proyectos internos**: Podrás participar y aprender junto a otras. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno)
 
 # Organización
 
@@ -29,6 +29,9 @@ Estos repos están etiquetados y siguen unas convenciones para organizar el trab
 - 🎯 **Etiqueta difficulty**: Etiqueta que evalúa la dificultad de comprensión de la unidad ([easy](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:intermediate), [hard](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:hard), [very-hard](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:very-hard)).
 
 - ✅ **Etiqueta state**: Indica el estado del repo ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [in-progress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:in-progress)).
+
+> [!WARNING]
+> Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
 
 
 # Más recursos
