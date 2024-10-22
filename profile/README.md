@@ -21,7 +21,7 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 Estos repos están etiquetados (a través de custom properties) y siguen unas convenciones para organizar el trabajo en equipo:
 
 - 🏷️ **Tipo**: Describe el tipo de repo (ejemplo: Roadmap, tema, proyecto coder, proyecto interno, etc.).
-- 📦 **Módulos**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](#)
+- 📦 **Módulos**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
 - ⏳ **Duración**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje (ejemplos: 0-2, 20-40 días).
 - 🎯 **Dificultad**: Propiedad opcional que evalúa la dificultad de comprensión de la unidad (valores: fácil, medio, difícil, muy difícil).
 - ✅ **Estado**: Indica el estado del repo (Terminado = true, en proceso = false).
