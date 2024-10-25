@@ -11,10 +11,10 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 # Contenido
 
-- 📅 **Roadmaps**: Contienen los proyectos y los temas organizados para las formaciones, además de centralizar información relevante para cada formación: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap)
-- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme)
-- 🛠️ **Proyectos para coders**: Repos que contienen la descripción de proyectos junto a los criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder)
-- 🤝 **Proyectos internos**: Proyectos que se están realizando internamente por parte de Factoría F5. Podrás participar y aprender junto a otras. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno)
+- 📅 **Roadmaps**: Contienen los proyectos y los temas organizados para las formaciones, además de centralizar información relevante para cada formación: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). Estos repos suelen ser privados solo accesibles users que pertencen a la organización.
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). Hay temas privados y temas abiertos.
+- 🛠️ **Proyectos para coders**: Repos que contienen la descripción de proyectos junto a los criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). Estos repos suelen ser privados solo accesibles users que pertencen a la organización.
+- 🤝 **Proyectos internos**: Proyectos que se están realizando internamente por parte de Factoría F5. Podrás participar y aprender junto a otras. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno). Repos privados.
 
 # Organización
 
