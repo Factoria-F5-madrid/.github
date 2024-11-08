@@ -36,10 +36,10 @@ Estos repos están etiquetados y siguen unas convenciones para organizar el trab
 
 # Más recursos
 
-- 🧪 Pruebas técnicas: [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews), [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
+- 🧪 Pruebas técnicas: [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews) | [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
 - 🎓 Masterclases: [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) | [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
 - 📂 Otros recursos adicionales: [Recursos en WebExtendida](https://webextendida.es/resources/)
-- 🎤 Eventos: [Calendario](https://calendar.google.com/calendar/u/0/embed?src=c_3f95bc52cc88dfcd2edbb88d050c90e675e1bc2993faa0dcd6fb4bc662100930@group.calendar.google.com&ctz=Europe/Madrid) [Wiki](https://www.eventos.wiki/)
+- 🎤 Eventos: [Calendario](https://calendar.google.com/calendar/u/0/embed?src=c_3f95bc52cc88dfcd2edbb88d050c90e675e1bc2993faa0dcd6fb4bc662100930@group.calendar.google.com&ctz=Europe/Madrid) | [Wiki](https://www.eventos.wiki/)
 
 > [!TIP]
 > La mejor manera de ganar tiempo es organizarse
