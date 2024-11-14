@@ -10,13 +10,13 @@ Nuestros repositorios serán el espacio donde podremos versionar y gestionar nue
 Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
 
 > [!WARNING]
-> Por defecto los repos son privados para los intergrantes de la organización y los integrantes de la organización tienen derechos de lectura en los repos
+> Por defecto los repos son privados, solo accesible para los intergrantes de la organización. Por defecto los integrantes de la organización tienen derechos de lectura en los repos.
 
 # Contenido
 
-- 📅 **Roadmaps**: Contienen los proyectos y los temas organizados para las formaciones, además de centralizar información relevante para cada formación: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). Estos repos suelen ser privados solo accesibles users que pertencen a la organización.
-- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). Hay temas privados y temas abiertos.
-- 🛠️ **Proyectos para coders**: Repos que contienen la descripción de proyectos junto a los criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). Estos repos suelen ser privados solo accesibles users que pertencen a la organización.
+- 📅 **Roadmaps**: Contienen la guía de los proyectos y los temas para las formaciones, además de centralizar información relevante para cada formación: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). Estos repos suelen ser públicos para que las personas puedan ver por encima qué se imparte en las formaciones. 
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). En general los temas son privados.
+- 🛠️ **Proyectos para coders**: Repos públicos que contienen la descripción de proyectos junto a los criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). El repo de la descripción del proyecto al ser público nos permite añadirlo como plantilla al classroom de github.
 - 🤝 **Proyectos internos**: Proyectos que se están realizando internamente por parte de Factoría F5. Podrás participar y aprender junto a otras. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno). Repos privados.
 
 # Organización
@@ -36,6 +36,8 @@ Estos repos están etiquetados y siguen unas convenciones para organizar el trab
 > [!WARNING]
 > Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
 
+> [!WARNING]
+> Es importnate mantener los repos bien enfocados en su tema, correctamente etiquetado y relacionado con los módulos. Las mejoras o sugerencias deben hacerse mediante pull request o solicitando colaboración directamente para fomentar el trabajo en equipo y la organización.
 
 # Más recursos
 
