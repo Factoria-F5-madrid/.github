@@ -9,6 +9,9 @@ Nuestros repositorios serán el espacio donde podremos versionar y gestionar nue
 
 Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
 
+> [!WARNING]
+> Por defecto los repos son privados para los intergrantes de la organización y los integrantes de la organización tienen derechos de lectura en los repos
+
 # Contenido
 
 - 📅 **Roadmaps**: Contienen los proyectos y los temas organizados para las formaciones, además de centralizar información relevante para cada formación: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). Estos repos suelen ser privados solo accesibles users que pertencen a la organización.
