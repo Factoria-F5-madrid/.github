@@ -15,7 +15,7 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 # Contenido
 
 - 📅 **Roadmaps**: Contienen la guía de los proyectos y los temas para las formaciones, además de centralizar información relevante para cada formación: [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). Estos repos suelen ser públicos para que las personas puedan ver por encima qué se imparte en las formaciones. 
-- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). En general los temas son privados.
+- 📚 **Temas**: Contenido para las formaciones (Incluyen su índice, memes, teoría y práctica, y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). En general los temas son privados. 
 - 🛠️ **Proyectos para coders**: Repos públicos que contienen la descripción de proyectos junto a los criterios de éxito, links a temas relacionados y un link a otro repo privado con la solución. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). El repo de la descripción del proyecto al ser público nos permite añadirlo como plantilla al classroom de github.
 - 🤝 **Proyectos internos**: Proyectos que se están realizando internamente por parte de Factoría F5. Podrás participar y aprender junto a otras. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno). Repos privados.
 
@@ -23,7 +23,7 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 Estos repos están etiquetados y siguen unas convenciones para organizar el trabajo en equipo:
 
-- 🏷️ **Etiquetas type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.).
+- 🏷️ **Etiquetas type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.). Además podemos añadir si es un ([game](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:game), un ([course](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:course), un ([certificate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:certificate), etc.
 
 - 📦 **Etiquetas modules**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
 
