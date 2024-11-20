@@ -23,7 +23,7 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 Estos repos están etiquetados y siguen unas convenciones para organizar el trabajo en equipo:
 
-- 🏷️ **Etiquetas type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.). Además podemos añadir si es un ([game](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:game), un ([course](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:course), un ([certificate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:certificate), etc.
+- 🏷️ **Etiquetas type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.). Además podemos añadir si es un [game](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:game), un [course](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:course), un [certificate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:certificate), etc.
 
 - 📦 **Etiquetas modules**: Lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
 
