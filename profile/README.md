@@ -31,7 +31,7 @@ Estos repos están etiquetados y siguen unas convenciones para organizar el trab
 
 - 🎯 **Etiqueta difficulty**: Etiqueta que evalúa la dificultad de comprensión de la unidad ([easy](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:intermediate), [hard](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:hard), [very-hard](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:very-hard)).
 
-- ✅ **Etiqueta state**: Indica el estado del repo ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [in-progress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:in-progress)).
+- ✅ **Etiqueta state**: Indica el estado del repo ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:inprogress)).
 
 > [!WARNING]
 > Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
