@@ -30,7 +30,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
 
 ## 🌐 Frontend
    - [JavaScript](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:javascript)
-   - TypeScript
+   - [TypeScript](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:typescript)
    - Frameworks
      - React
      - Next
