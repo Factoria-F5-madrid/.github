@@ -59,7 +59,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
      - Symfony
    - Databases
      - Non-relational
-     - Relational
+     - [Relational](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:relational)
      - Vector-based
 
 ## 🤖 [AI](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:ai)
