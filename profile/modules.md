@@ -34,27 +34,26 @@ For the repositories, tag with the main category and add the subcategories. Exam
    - Frameworks
      - [React](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:typescript)
      - Next
-     - Angular
-     - Vue
+     - (Angular)
+     - (Vue)
    - Immersive technologies
      - Blender
      - Three
      - A-frame
      - Babylon
-     - Unity
+     - (Unity)
 
 ## 🛠️ Backend
    - Languages
-     - Java
+     - (Java)
      - [Python](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:python)
      - [Node](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:node)
      - PHP
-     - .NET
+     - (.NET)
    - Frameworks
-     - Spring Boot
+     - (Spring Boot)
      - Django
-     - Express
-     - Nest
+     - Express / Nest
      - Laravel
      - Symfony
    - Databases
@@ -75,14 +74,14 @@ For the repositories, tag with the main category and add the subcategories. Exam
 ## ☁️ [Cloud](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:cloud)
    - Hosting (Domains, DNS, Cronjobs, SSH, etc.)
    - [Docker](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:docker)
-   - Kubernetes
+   - (Kubernetes)
    - AWS
    - Azure
 
 ## 🔐 [Cybersecurity](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic%3Acybersecurity)
    - Code
-   - Cloud
-   - Systems
+   - (Cloud)
+   - (Systems)
 
 ## ✅ QA (Quality Assurance)
 
