@@ -10,7 +10,7 @@ Nuestros repositorios serán el espacio donde podremos versionar y gestionar nue
 Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
 
 > [!WARNING]
-> Por defecto los repos son privados, solo accesible para los intergrantes de la organización. Por defecto los integrantes de la organización tienen derechos de lectura en los repos. Cuando sea necesario por motivos pedagógicos se puede hacer público algún repo.
+> Por defecto los repos son privados, solo accesible para los intergrantes de la organización. Por defecto los integrantes de la organización tienen derechos de lectura en los repos. Cuando se necesite compartir la información por motivos pedagógicos se descarga y comparte un zip con quien se necesite.
 
 # Contenido
 
