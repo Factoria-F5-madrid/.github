@@ -10,7 +10,7 @@ Nuestros repositorios serán el espacio donde podremos versionar y gestionar nue
 Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
 
 > [!WARNING]
-> Por defecto los repos son privados, solo accesible para los intergrantes de la organización. Por defecto los integrantes de la organización tienen derechos de lectura en los repos. Cuando se necesite compartir la información por motivos pedagógicos se descarga y comparte un zip con quien se necesite.
+> Por defecto los repos son privados, solo accesible para los intergrantes de la organización. Por defecto los integrantes de la organización tienen derechos de lectura en los repos. Cuando se necesite compartir la información por motivos pedagógicos se descargará y se compartirá un zip con quien se necesite.
 
 # Contenido
 
@@ -25,7 +25,7 @@ Estos repos están etiquetados con palabras clave (llamadas Topics) y siguen una
 
 - 🏷️ **Topic type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.). Además podemos añadir si es un [game](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:game), un [course](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:course), un [certificate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:certificate), etc.
 
-- 📦 **Topic modules**: Palabra clave asociada a la lista los módulos a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
+- 📦 **Topic modules**: Palabra clave asociada a la lista de los temas a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de temas](./modules.md)
 
 - ⏳ **Topic duration**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje ([day](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:week), [biweekly](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:biweekly), [month](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:month), [2months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:2months), [3months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:3months), [9months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:9months)).
 
