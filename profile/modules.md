@@ -1,4 +1,4 @@
-# Modules
+# Table of contents
 
 For the repositories, tag with the main category and add the subcategories. Example: project-management and agile-mindset
 
