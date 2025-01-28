@@ -43,9 +43,9 @@ Estos repos están etiquetados con palabras clave (llamadas Topics) y siguen una
 
 - 🧪 Pruebas técnicas: [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews) | [Más pruebas técnicas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX)
 - 🎓 Masterclases: [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) | [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0)
-- 📂 Otros recursos adicionales: [Recursos en WebExtendida](https://webextendida.es/resources/)
+- 📂 Recursos anteriores adicionales: [Recursos en WebExtendida](https://webextendida.es/resources/)
 - 🎤 Eventos: [Calendario](https://calendar.google.com/calendar/u/0/embed?src=c_3f95bc52cc88dfcd2edbb88d050c90e675e1bc2993faa0dcd6fb4bc662100930@group.calendar.google.com&ctz=Europe/Madrid) | [Wiki](https://www.eventos.wiki/)
-- 📖 [Cursos y certificados](https://docs.google.com/spreadsheets/d/1iBgvpsufW8o6Jz0VoLsqgWhrxMrApqfvE02Z8Y27_nE/edit?gid=2017178684#gid=2017178684)
+- 📖 [Cursos, certificados y recursos](https://docs.google.com/spreadsheets/d/1iBgvpsufW8o6Jz0VoLsqgWhrxMrApqfvE02Z8Y27_nE/edit?gid=2017178684#gid=2017178684)
 
 > [!TIP]
 > La mejor manera de ganar tiempo es organizarse
