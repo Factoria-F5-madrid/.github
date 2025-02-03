@@ -37,7 +37,7 @@ Estos repos están etiquetados con palabras clave (llamadas Topics) y siguen una
 > Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
 
 > [!WARNING]
-> Es importnate mantener los repos bien enfocados en su tema, correctamente etiquetado y relacionado con los módulos. Las mejoras o sugerencias deben hacerse mediante pull request o solicitando colaboración directamente para fomentar el trabajo en equipo y la organización.
+> Es importante mantener los repos bien enfocados en su tema, correctamente etiquetado y relacionado con los módulos. Las mejoras o sugerencias deben hacerse mediante pull request o solicitando colaboración directamente para fomentar el trabajo en equipo y la organización.
 
 # Más recursos
 
