@@ -21,7 +21,9 @@ Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad
 
 # Organización
 
-Estos repos están etiquetados con palabras clave (llamadas Topics) y siguen unas convenciones para organizar el trabajo en equipo:
+Recomendación de nombres de repositorios: Usar solo minúsculas y separar palabras con guiones medios (-). Ejemplo: nombre-del-repositorio.
+
+Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas convenciones para organizar el trabajo en equipo:
 
 - 🏷️ **Topic type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.). 
 
