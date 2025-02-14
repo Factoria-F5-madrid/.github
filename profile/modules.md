@@ -14,7 +14,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
    - Clean Code
    - Logic and Algorithms
    - Data Types
-   - Functional Programming
+   - [Functional Programming](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:functional-programming)
    - [Object-Oriented Programming](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:object-oriented-programming)
    - TDD (Test-driven development)
    - Software Architecture
