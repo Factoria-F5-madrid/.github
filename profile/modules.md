@@ -15,7 +15,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
    - Logic and Algorithms
    - Data Types
    - Functional Programming
-   - Object-Oriented Programming
+   - [Object-Oriented Programming](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:object-oriented-programming)
    - TDD (Test-driven development)
    - Software Architecture
 
