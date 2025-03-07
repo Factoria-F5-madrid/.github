@@ -27,7 +27,7 @@ Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas 
 
 - 🏷️ **Topic type**: Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal), etc.). 
 
-- 📦 **Topic modules**: Palabra clave asociada a la lista de los temas a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de temas](./modules.md)
+- 📦 **Topic modules**: Palabra clave asociada a la lista de los temas a los que pertenece esta unidad (ejemplo: Frontend, React, etc.). [Listado de módulos](./modules.md)
 
 - ⏳ **Topic duration**: Evalúa la duración media del repo en días, basada en los objetivos o aprendizaje ([day](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:week), [biweekly](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:biweekly), [month](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:month), [2months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:2months), [3months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:3months), [9months](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:9months)).
 
