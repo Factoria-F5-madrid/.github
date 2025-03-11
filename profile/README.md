@@ -39,11 +39,11 @@ Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas 
 
 | Elemento | Descripción |
 |----------|-------------|
-| 🏷️ **Topic type** | Describe el tipo de repo ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal)). |
-| 📦 **Topic modules** | Palabra clave asociada a la lista de temas (Frontend, React, etc.). [Listado de módulos](./modules.md). |
-| ⏳ **Topic duration** | Evalúa la duración media del repo en días. ([day](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:week), etc.). |
-| 🎯 **Topic difficulty** | Evalúa la dificultad de comprensión de la unidad ([easy](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:intermediate), etc.). |
-| ✅ **Topic state** | Indica el estado del repo ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:inprogress)). |
+| 🏷️ **Topic type** | Describe el tipo de repo. Cada repositorio debe estar correctamente clasificado para facilitar la búsqueda y la organización eficiente dentro del equipo. ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal)). |
+| 📦 **Topic modules** | Palabra clave asociada a la lista de módulos a los que pertenece este repositorio (Frontend, React, Backend, etc.). Mantener esta clasificación ayuda a estructurar el contenido. [Listado de módulos](./modules.md). |
+| ⏳ **Topic duration** | Evalúa la duración media del repositorio en días. Se utiliza para estimar el tiempo necesario para completar un tema o proyecto. ([day](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:week), etc.). |
+| 🎯 **Topic difficulty** | Evalúa la dificultad de comprensión de la unidad. Un indicador clave para determinar qué nivel de experiencia es requerido para abordar cada contenido. ([easy](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:intermediate), etc.). |
+| ✅ **Topic state** | Indica el estado del repositorio, permitiendo saber si se encuentra en desarrollo, en revisión o si ya está completo y listo para su uso. ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:inprogress)). |
 
 > [!WARNING]
 > Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
@@ -55,10 +55,10 @@ Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas 
 
 | Recurso | Descripción |
 |---------|-------------|
-| 🧪 **Pruebas técnicas** | [Sobre pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews) | [Más pruebas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX). |
-| 🎓 **Masterclases** | [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) | [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0). |
+| 🧪 **Pruebas técnicas** | Recursos para evaluar conocimientos en diversas áreas del desarrollo. [Material para pruebas técnicas](https://github.com/Factoria-F5-dev/technical-interviews) | [Más pruebas en Drive](https://drive.google.com/drive/folders/10vwQVJ8HSzi1a6kiYtzaoxR2R3EGo-aX). |
+| 🎓 **Masterclases** | Clases impartidas por personas expertas en diversas áreas del desarrollo [Calendario de clases compartidas](https://calendar.google.com/calendar/u/0?cid=Y180YzBhMDNhMjAwMzIxODNkN2VmYTRjMThkM2QzNzFjMTkzOWMyODBiMzAxYzEyMzRlMzZhNWNmYzg4ZTYwZTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) | [Listado de clases grabadas](https://docs.google.com/spreadsheets/d/1mbxZu-IZCVWX06MPGMyt_OIf--0lPx9P2BAxlQkYoLM/edit#gid=0). |
 | 📂 **Recursos adicionales** | [Recursos en WebExtendida](https://webextendida.es/resources/). |
-| 🎤 **Eventos** | [Calendario](https://calendar.google.com/calendar/u/0/embed?src=c_3f95bc52cc88dfcd2edbb88d050c90e675e1bc2993faa0dcd6fb4bc662100930@group.calendar.google.com&ctz=Europe/Madrid) | [Wiki](https://www.eventos.wiki/). |
+| 🎤 **Eventos** | Listado de eventos importantes[Calendario](https://calendar.google.com/calendar/u/0/embed?src=c_3f95bc52cc88dfcd2edbb88d050c90e675e1bc2993faa0dcd6fb4bc662100930@group.calendar.google.com&ctz=Europe/Madrid) | [Wiki](https://www.eventos.wiki/). |
 | 📖 **Cursos y certificados** | [Listado de cursos y certificados](https://docs.google.com/spreadsheets/d/1iBgvpsufW8o6Jz0VoLsqgWhrxMrApqfvE02Z8Y27_nE/edit?gid=2017178684#gid=2017178684). |
 
 > [!TIP]
