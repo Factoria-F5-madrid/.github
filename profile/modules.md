@@ -45,6 +45,7 @@ For the repositories, tag with the main category and add the subcategories. Exam
      - [Python](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:python)
      - [Node](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:node)
      - PHP
+     - [Java](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:java)
    - Frameworks
      - Django
      - Express / Nest
