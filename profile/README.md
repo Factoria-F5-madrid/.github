@@ -26,10 +26,10 @@ Nuestros repositorios serán el espacio donde podremos versionar y gestionar nue
 
 | Categoría | Descripción |
 |-----------|-------------|
-| 📅 **Roadmaps** | Contienen la guía de los proyectos y los temas para las formaciones. [Listado de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). |
-| 📚 **Temas** | Contenido para las formaciones (índice, memes, teoría, práctica, presentaciones y links a recursos adicionales). [Listado de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). |
-| 🛠️ **Proyectos para coders** | Repos públicos con la descripción de proyectos, criterios de éxito y enlaces a soluciones. [Listado de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). |
-| 🤝 **Proyectos internos** | Proyectos internos de Factoría F5. [Listado de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno). |
+| 📅 **Roadmaps** | Contienen la guía de los proyectos y los temas para las formaciones. [Listado de repos de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). |
+| 📚 **Temas** | Contenido para las formaciones (índice, memes, teoría, práctica, presentaciones y links a recursos adicionales). [Listado de repos de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). |
+| 🛠️ **Proyectos para coders** | Repos públicos con la descripción de proyectos, criterios de éxito y enlaces a soluciones. [Listado de repos de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). |
+| 🤝 **Proyectos internos** | Proyectos internos de Factoría F5. [Listado de repos de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno). |
 
 # Organización
 
