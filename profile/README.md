@@ -26,10 +26,10 @@ Nuestros repositorios serán el espacio donde podremos versionar y gestionar nue
 
 | Categoría | Descripción |
 |-----------|-------------|
-| 📅 **Roadmaps** | Contienen la guía de los proyectos y los temas para las formaciones. [Listado de repos de roadmaps](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap). |
-| 📚 **Temas** | Contenido para las formaciones (índice, memes, teoría, práctica, presentaciones y links a recursos adicionales). [Listado de repos de temas](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme). |
-| 🛠️ **Proyectos para coders** | Repos públicos con la descripción de proyectos, criterios de éxito y enlaces a soluciones. [Listado de repos de proyectos para coders](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder). |
-| 🤝 **Proyectos internos** | Proyectos internos de Factoría F5. [Listado de repos de proyectos internos](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-interno). |
+| 📅 **Roadmaps** | Contienen la guía de los proyectos y los temas para las formaciones. [Listado de repos de roadmaps](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:roadmap). |
+| 📚 **Temas** | Contenido para las formaciones (índice, memes, teoría, práctica, presentaciones y links a recursos adicionales). [Listado de repos de temas](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:theme). |
+| 🛠️ **Proyectos para coders** | Repos públicos con la descripción de proyectos, criterios de éxito y enlaces a soluciones. [Listado de repos de proyectos para coders](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:project-coder). |
+| 🤝 **Proyectos internos** | Proyectos internos de Factoría F5. [Listado de repos de proyectos internos](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:project-interno). |
 
 # Organización
 
@@ -39,11 +39,11 @@ Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas 
 
 | Elemento | Descripción |
 |----------|-------------|
-| 🏷️ **Topic type** | Describe el tipo de repo. Cada repositorio debe estar correctamente clasificado para facilitar la búsqueda y la organización eficiente dentro del equipo. ([roadmap](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal)). |
+| 🏷️ **Topic type** | Describe el tipo de repo. Cada repositorio debe estar correctamente clasificado para facilitar la búsqueda y la organización eficiente dentro del equipo. ([roadmap](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal)). |
 | 📦 **Topic modules** | Palabra clave asociada a la lista de módulos a los que pertenece este repositorio (Frontend, React, Backend, etc.). Mantener esta clasificación ayuda a estructurar el contenido. [Listado de módulos](./modules.md). |
-| ⏳ **Topic duration** | Evalúa la duración media del repositorio en días. Se utiliza para estimar el tiempo necesario para completar un tema o proyecto. ([day](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:week), etc.). |
-| 🎯 **Topic difficulty** | Evalúa la dificultad de comprensión de la unidad. Un indicador clave para determinar qué nivel de experiencia es requerido para abordar cada contenido. ([easy](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:intermediate), etc.). |
-| ✅ **Topic state** | Indica el estado del repositorio, permitiendo saber si se encuentra en desarrollo, en revisión o si ya está completo y listo para su uso. ([completed](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:inprogress)). |
+| ⏳ **Topic duration** | Evalúa la duración media del repositorio en días. Se utiliza para estimar el tiempo necesario para completar un tema o proyecto. ([day](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:week), etc.). |
+| 🎯 **Topic difficulty** | Evalúa la dificultad de comprensión de la unidad. Un indicador clave para determinar qué nivel de experiencia es requerido para abordar cada contenido. ([easy](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:intermediate), etc.). |
+| ✅ **Topic state** | Indica el estado del repositorio, permitiendo saber si se encuentra en desarrollo, en revisión o si ya está completo y listo para su uso. ([completed](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:inprogress)). |
 
 > [!WARNING]
 > Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
