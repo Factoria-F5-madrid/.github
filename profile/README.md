@@ -17,7 +17,7 @@ Ventajas de uso de Github:
 | 📌 **Uso de plantillas** | Permite la creación de repositorios a partir de plantillas, agilizando la estructuración de nuevos proyectos y asegurando coherencia en la organización. |
 | 📜 **Control de versiones** | Permite realizar un seguimiento de los cambios en el código, facilitando la colaboración sin perder información. |
 
-Nuestros repositorios serán el espacio donde podremos versionar y gestionar nuestros roadmaps, el contenido para clases, los proyectos para coders y proyectos internos que estamos desarrollando. Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
+Nuestros repositorios serán el espacio donde podremos versionar el contenido para clases, los proyectos para coders y proyectos internos que estamos desarrollando. Te invitamos a sumarte a esta aventura, a participar activamente en la comunidad, compartir conocimiento y aprender juntas.
 
 > [!WARNING]
 > Por defecto los repos son privados, solo accesible para los intergrantes de la organización. Por defecto los integrantes de la organización tienen derechos de lectura en los repos. Cuando se necesite compartir la información por motivos pedagógicos se descargará y se compartirá un zip.
@@ -40,7 +40,6 @@ Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas 
 | Elemento | Descripción |
 |----------|-------------|
 | 🏷️ **Topic type** | Describe el tipo de repo. Cada repositorio debe estar correctamente clasificado para facilitar la búsqueda y la organización eficiente dentro del equipo. ([roadmap](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:roadmap), [theme](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:theme), [project-coder](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:project-coder), [project-internal](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:project-internal)). |
-| 📦 **Topic modules** | Palabra clave asociada a la lista de módulos a los que pertenece este repositorio (Frontend, React, Backend, etc.). Mantener esta clasificación ayuda a estructurar el contenido. [Listado de módulos](./modules.md). |
 | ⏳ **Topic duration** | Evalúa la duración media del repositorio en días. Se utiliza para estimar el tiempo necesario para completar un tema o proyecto. ([day](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:day), [week](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:week), etc.). |
 | 🎯 **Topic difficulty** | Evalúa la dificultad de comprensión de la unidad. Un indicador clave para determinar qué nivel de experiencia es requerido para abordar cada contenido. ([easy](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:easy), [intermediate](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:intermediate), etc.). |
 | ✅ **Topic state** | Indica el estado del repositorio, permitiendo saber si se encuentra en desarrollo, en revisión o si ya está completo y listo para su uso. ([completed](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:inprogress)). |
