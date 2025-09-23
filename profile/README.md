@@ -45,9 +45,6 @@ Los repos están etiquetados con palabras clave (llamadas Topics) y siguen unas 
 | ✅ **Topic state** | Indica el estado del repositorio, permitiendo saber si se encuentra en desarrollo, en revisión o si ya está completo y listo para su uso. ([completed](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:completed), [inprogress](https://github.com/orgs/Factoria-F5-madrid/repositories?q=topic:inprogress)). |
 
 > [!WARNING]
-> Cuando creamos un repo nuevo es importante etiquetarlo correctamente siguiendo esta guía y actualizar el [Listado de módulos](./modules.md) añadiendo los links correspondientes
-
-> [!WARNING]
 > Es importante mantener los repos bien enfocados en su tema, correctamente etiquetado y relacionado con los módulos. Las mejoras o sugerencias deben hacerse mediante pull request o solicitando colaboración directamente para fomentar el trabajo en equipo y la organización.
 
 # Más recursos
